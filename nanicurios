@@ -1,0 +1,20 @@
+{
+  "title": "Nanivurs' Curios",
+  "description": "An online proxy collection of images that Nanivurs has collected over the years.",
+  "artist": "Various Artists",
+  "author": "N/A",
+  "cover": "https://drive.google.com/uc?id=1RvAgCAg3a0gTUgbTVlIQ076vLLbre8vn",
+  "chapters": {
+    "1": {
+      "title": "File Tests",
+      "volume": "0",
+      "groups": {
+        "GDrive": [
+        "https://drive.google.com/uc?id=1oHBdCjsmVUvPL8myAsOP1u_XVES6sOaV",
+        "https://drive.google.com/uc?id=1KiJkwOtLRXH-M9SXghw4S8R6cteMGyam"
+        ]
+      },
+      "last_updated": "1626223109"
+    },
+  }
+}
