@@ -6,32 +6,23 @@
   "cover": "https://drive.google.com/uc?id=1RvAgCAg3a0gTUgbTVlIQ076vLLbre8vn",
   "chapters": {
     "1": {
-      "title": "File Tests",
+      "title": "KAGACHI the Snake Ninja",
       "volume": "0",
       "groups": {
-        "GDrive": [
-          "https://drive.google.com/uc?id=1oHBdCjsmVUvPL8myAsOP1u_XVES6sOaV",
-          "https://drive.google.com/uc?id=1oHBdCjsmVUvPL8myAsOP1u_XVES6sOaV",
-          "https://drive.google.com/uc?id=1oHBdCjsmVUvPL8myAsOP1u_XVES6sOaV",
-          "https://drive.google.com/uc?id=1oHBdCjsmVUvPL8myAsOP1u_XVES6sOaV",
-          "https://drive.google.com/uc?id=1KiJkwOtLRXH-M9SXghw4S8R6cteMGyam"
-        ]
+        "Vaneroku": [
+          "https://drive.google.com/uc?id=1uy8jorZiR02iyDnqug2XD-nGRXnSSgXV",
+          "https://drive.google.com/uc?id=1xZXyTgtotTV-QQPYn5CPeIxI6iLp-0vi",
+          "https://drive.google.com/uc?id=18Kk1IR2LKtyg9oNxqt0b3bWm0VHRHJhk",
+          "https://drive.google.com/uc?id=1xJz756yQ8uBtfBPhPx-z2fjU6j4Kd_QY",
+          "https://drive.google.com/uc?id=1gMoHYSVjNagwKEFtpzv-fRD4IKDvEkR6",
+          "https://drive.google.com/uc?id=1zqyYWxTL6EvHXoL05J9x-GIuJLV67PfP",
+          "https://drive.google.com/uc?id=1KBc-CJiKrkEidVjlBofL1cktVnqQ6Ke-",
+          "https://drive.google.com/uc?id=1ky5RbBJT_cHS6SmotnYaDOUtcgZ_M7Fw",
+          "https://drive.google.com/uc?id=16vmPmbnJSd5tmHOzRWEStKC9jO6fCYZl",
+          "https://drive.google.com/uc?id=15t97aQAh7b182MftRSHLF05BPPzTREZY"
+          ]
       },
-      "last_updated": "1626228559"
-    },
-    "2": {
-      "title": "More Tests",
-      "volume": "0",
-      "groups":  {
-        "GDrive": [
-          "https://drive.google.com/uc?id=1oHBdCjsmVUvPL8myAsOP1u_XVES6sOaV",
-          "https://drive.google.com/uc?id=1oHBdCjsmVUvPL8myAsOP1u_XVES6sOaV",
-          "https://drive.google.com/uc?id=1oHBdCjsmVUvPL8myAsOP1u_XVES6sOaV",
-          "https://drive.google.com/uc?id=1oHBdCjsmVUvPL8myAsOP1u_XVES6sOaV",
-          "https://drive.google.com/uc?id=1KiJkwOtLRXH-M9SXghw4S8R6cteMGyam"
-        ]
-      },
-      "last_updated": "1626228784"
+      "last_updated": "1626591671"
     }
   }
 }
