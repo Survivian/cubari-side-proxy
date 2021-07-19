@@ -28,7 +28,7 @@
       "title": "Eeveelution Maids",
       "volume": "0",
       "groups": {
-        "Burgerkiss": [
+        "BurgerKiss": [
           "https://drive.google.com/uc?id=1e-XkV1i1hkvVzW9gS9AeDHtjS4DF6bb0",
           "https://drive.google.com/uc?id=13OJ1yI0bqnhdiln_nLDK6BnkymM_nOJC",
           "https://drive.google.com/uc?id=1NgenDMbFLZQkJ7QaYgXtk9muVe4OAMCJ",
@@ -77,7 +77,8 @@
           "https://drive.google.com/uc?id=1vyufREabGBITlwVNp7Ue_bKeh0qORRYX",
           "https://drive.google.com/uc?id=1rkGztE5agFYZUXUCWIMTJBcumTs0xVV6"
           ]
-      }
+      },
+      "last_updated": "1626679104"
     }
   }
 }
