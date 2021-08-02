@@ -79,6 +79,25 @@
           ]
       },
       "last_updated": "1626679104"
+    },
+    "3": {
+      "title": "KAGACHI the Snake Ninja (LocalHost)",
+      "volume": "0",
+      "groups": {
+        "Vaneroku": [
+          "http://192.168.1.92/The%20Images/KAGACHI%20the%20Snake%20Ninja/01.jpg",
+          "http://192.168.1.92/The%20Images/KAGACHI%20the%20Snake%20Ninja/02.jpg",
+          "http://192.168.1.92/The%20Images/KAGACHI%20the%20Snake%20Ninja/03.jpg",
+          "http://192.168.1.92/The%20Images/KAGACHI%20the%20Snake%20Ninja/04.jpg",
+          "http://192.168.1.92/The%20Images/KAGACHI%20the%20Snake%20Ninja/05.jpg",
+          "http://192.168.1.92/The%20Images/KAGACHI%20the%20Snake%20Ninja/06.jpg",
+          "http://192.168.1.92/The%20Images/KAGACHI%20the%20Snake%20Ninja/07.jpg",
+          "http://192.168.1.92/The%20Images/KAGACHI%20the%20Snake%20Ninja/08.jpg",
+          "http://192.168.1.92/The%20Images/KAGACHI%20the%20Snake%20Ninja/09.jpg",
+          "http://192.168.1.92/The%20Images/KAGACHI%20the%20Snake%20Ninja/10.jpg"
+          ]
+      },
+      "last_updated": "1626591671"
     }
   }
 }
