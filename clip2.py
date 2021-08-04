@@ -2,8 +2,8 @@
 import os
  
 # The path for listing items
-path = r"D:\Everything Else\The Images\Pennys Problem"
-url = r"http://66.168.178.255/The%20Images/Pennys%20Problem/" 
+path = r"D:\Everything Else\The Images\Tojyo Patreon"
+url = r"http://66.168.178.255/The%20Images/Tojyo%20Patreon/" 
 # The list of items
 files = os.listdir(path)
  

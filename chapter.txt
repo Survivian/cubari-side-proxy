@@ -1,0 +1,8 @@
+"<number>": {
+    "title": "<title>",
+    "volume": "0",
+    "groups": {
+    "<artist>": []
+    },
+    "last_updated": "timestamp"
+}
