@@ -2,8 +2,8 @@
 import os
  
 # The path for listing items
-path = r"D:\Everything Else\The Images\MelonArt\Vanilla The Rabbit"
-url = r"http://66.168.178.255/The%20Images/MelonArt/Vanilla%20The%20Rabbit/" 
+path = r"D:\Everything Else\The Images\Kincaid CG Archive"
+url = r"http://66.168.178.255/The%20Images/Kincaid%20CG%20Archive/" 
 # The list of items
 files = os.listdir(path)
  
